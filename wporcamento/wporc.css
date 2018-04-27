@@ -1,0 +1,156 @@
+.table_wporc{
+	border-bottom: none;
+	margin-top: 7px;
+}
+
+.wporc_title_header{
+	background-color: #4a88bf;
+	color: white;
+}
+
+.btn-circle {
+  font-size: 26px !important;
+  background-color: #4a88bf !important;
+}
+
+.btn-circle_2{
+	font-size: 26px !important;
+	background-color: green !important;
+}
+
+.wporc_div{
+	padding-top: 20px;
+}
+
+
+.titulo_tabela_wporc{
+	color: #4a88bf;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.wporc_tabelas1_2{
+	padding-right: 0;
+	padding-left: 0;
+}
+
+.wporc_tabelas_centro{
+	padding-right: 5px;
+	padding-left: 5px;
+}
+
+.wporc_tabelas_centro > table > tbody > tr, .wporc_tabelas_centro > table > tbody > tr > td{
+	border: none;
+	font-size: 18px;
+	padding-top: 20px;
+
+}
+
+.wporc_tabelas1_2 > table > tbody > tr{
+	border: none;
+}
+
+
+.wporc_titulo{
+	font-weight:bold;
+	color: #1da4dd;
+	font-size: 22px;
+}
+
+.wporc_titulo > h2{
+	font-weight:bold;
+	color: #1da4dd;
+	font-size: 35px;
+}
+
+.wporc_tabela_meio >  thead > tr >td{
+	border: none;
+}
+
+.wporc_tabela_meio >  thead > tr{
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	color: gray;
+}
+
+.wporc_tabela_meio >  tbody > tr >td,.wporc_tabela_meio >  tbody > tr{
+	border: none;
+	padding: 5px;
+	font-size: 18px;
+}
+
+.wporc_tabela_meio >  tbody > tr >td>h5{
+	border: none;
+	padding: 5px;
+	font-size: 18px;
+}
+
+.wporc_tabela_meio >  tbody > tr >td>i{
+	border: none;
+	padding: 12px;
+	font-size: 28px;
+}
+
+.wporc_tabelas1_2 > table > tbody > tr > td, .wporc_tabelas1_2 > table > tbody > tr,
+,.wporc_tabelas1_3 > table > tbody > tr > td,.wporc_tabelas1_3 > table > tbody > tr > th 
+{
+	border: none;
+
+}
+
+ .wporc_tabelas1_3 > table > tbody > tr{
+	border-top:none;
+	border-right: none;
+	border-left: none; 
+}
+
+.wporc_tabelas1_3 > table > tbody > tr > th{
+	border-right: none;
+}
+
+.wporc_tabelas1_3{
+	margin-top: 10px;
+}
+
+.wporc_btn_enviar{
+	color:white;
+	background-color: #4a88bf;
+	font-size: 20px !important;
+	margin-top: 15px;
+}
+
+.wporc_deletar{
+	background-color: red;
+}
+
+.wporc_select{
+	font-size: 20px;
+    outline: none;
+    background: #fff;
+    margin-right: 5px; 
+}
+
+.wporc_btn_enviar:hover {
+	color:white !important;
+	background-color: #4a88bf !important;
+	font-size: 20px;
+	margin-top: 15px; 
+}
+
+.wporc_tabela_meio > tbody > tr > td > h5,.wporc_tabela_meio > tbody > tr > td {
+	color: #6B6B6B;
+}
+
+.title_bg_2{
+	color:white;
+	text-align: center;
+}
+
+.wporc_titulo > span > h2{
+	color:#1da4dd;
+}
+
+.wporc_invisible{
+	display: none;
+}
